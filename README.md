@@ -2,7 +2,6 @@
 
 A data analytics project built using PostgreSQL and Python to analyze restaurant trends, customer preferences, ratings, and pricing insights from Zomato restaurant data.
 
----
 
 # Tech Stack
 
@@ -13,8 +12,7 @@ A data analytics project built using PostgreSQL and Python to analyze restaurant
 - Matplotlib
 - VS Code
 
----
-
+  
 # Project Overview
 
 This project focuses on:
@@ -26,7 +24,6 @@ This project focuses on:
 
 The dataset was cleaned using Python and stored in PostgreSQL for analytical querying and reporting.
 
----
 
 # Features
 
@@ -41,6 +38,3 @@ The dataset was cleaned using Python and stored in PostgreSQL for analytical que
 - Generated visual insights using Matplotlib
 - Built an end-to-end ETL workflow
 
----
-
-# Project Structure
